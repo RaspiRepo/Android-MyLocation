@@ -4,6 +4,10 @@ Android mobile app which will get present GPS location of device and broadcast l
 
 # Steps
 
-a. First run location server script on any server
+a. First run location server script on any server.
+
 b. Set server IP address and port number and apply "My Location" button.
+
 c. This service will keep update its location whenever there is change in location.
+
+
