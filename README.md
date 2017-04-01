@@ -1,4 +1,4 @@
-# Location-Reporter
+# MyGPS Location
 
 Android mobile app which will get present GPS location of device and broadcast location details to configured server.  Server script "GPS-location-Service.py" code is uploaded in another repository. 
 
