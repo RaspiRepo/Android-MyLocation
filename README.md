@@ -2,12 +2,8 @@
 
 Android mobile app which will get present GPS location of device and broadcast location details to configured server.  Server script "GPS-location-Service.py" code is uploaded in another repository. 
 
-# Steps
+This source code is developed using Android Studio IDE version 2.3. Unzip the file and import the project into Android Studio.
+Install the application on Android mobile phone.
 
-a. First run location server script on any server.
-
-b. Set server IP address and port number and apply "My Location" button.
-
-c. This service will keep update its location whenever there is change in location.
-
+This application will get current gps location information from GPS module and report back to server wherever its running (specifiy server IP and port).
 
